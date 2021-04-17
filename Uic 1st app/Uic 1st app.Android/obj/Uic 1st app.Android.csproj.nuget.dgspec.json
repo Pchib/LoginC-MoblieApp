@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj": {}
+    "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj": {
+    "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj",
         "projectName": "Uic 1st app.Android",
-        "projectPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj",
+        "projectPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app.Android\\Uic 1st app.Android.csproj",
         "packagesPath": "C:\\Users\\Saladmaster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app.Android\\obj\\",
+        "outputPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj": {
-                "projectPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj"
+              "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj": {
+                "projectPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.6.1, )"
@@ -58,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj": {
+    "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj",
+        "projectUniqueName": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj",
         "projectName": "Uic 1st app",
-        "projectPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj",
+        "projectPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app\\Uic 1st app.csproj",
         "packagesPath": "C:\\Users\\Saladmaster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app\\Uic 1st app\\Uic 1st app\\obj\\",
+        "outputPath": "C:\\Users\\Saladmaster\\Desktop\\c#\\Uic 1st app - Copy\\Uic 1st app\\Uic 1st app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -103,6 +107,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

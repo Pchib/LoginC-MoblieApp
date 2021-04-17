@@ -28,3 +28,18 @@ C:\Users\Saladmaster\Desktop\c#\Uic 1st app\Uic 1st app\Uic 1st app\obj\Debug\ne
 C:\Users\Saladmaster\Desktop\c#\Uic 1st app\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.dll
 C:\Users\Saladmaster\Desktop\c#\Uic 1st app\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\ref\Uic 1st app.dll
 C:\Users\Saladmaster\Desktop\c#\Uic 1st app\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.pdb
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\bin\Debug\netstandard2.0\Uic 1st app.deps.json
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\bin\Debug\netstandard2.0\Uic 1st app.dll
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\bin\Debug\netstandard2.0\ref\Uic 1st app.dll
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\bin\Debug\netstandard2.0\Uic 1st app.pdb
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.csprojAssemblyReference.cache
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.AssemblyInfoInputs.cache
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.AssemblyInfo.cs
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.csproj.CoreCompileInputs.cache
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.dll
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\ref\Uic 1st app.dll
+C:\Users\Saladmaster\Desktop\c#\Uic 1st app - Copy\Uic 1st app\Uic 1st app\obj\Debug\netstandard2.0\Uic 1st app.pdb
